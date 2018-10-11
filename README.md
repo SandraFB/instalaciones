@@ -100,11 +100,11 @@ import pickle
 
 %matplotlib qt
 
-Nota: Estas líneas de código importan las librerías mencionadas. Si no te marca error, has instalado correctamente las librerías.
+(Nota: Estas líneas de código importan las librerías mencionadas. Si no te marca error, has instalado correctamente las librerías).
 
-cv2.__version__ 
+cv2.__version__
 
-Nota: Esta línea de código imprime la versión de OpenCV instalada. Si no te marca error, has instalado correctamente OpenCV.
+(Nota: Esta línea de código imprime la versión de OpenCV instalada. Si no te marca error, has instalado correctamente OpenCV.
 
 
 ![Notebook](https://github.com/SandraFB/instalaciones/blob/master/imagen7.jpg)
