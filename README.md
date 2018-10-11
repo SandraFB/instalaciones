@@ -9,21 +9,21 @@ Desde tu ventana de comandos de Anaconda, ejecuta la siguiente línea:
 
 git clone https://github.com/SandraFB/instalaciones.git
 
-![clone](https://github.com/SandraFB/CursoPDI-CICATA2018/blob/master/PruebaInstalacion/imagen1.jpg)
+![clone](https://github.com/SandraFB/instalaciones/blob/master/imagen1.jpg)
 
 
-![path](https://github.com/SandraFB/CursoPDI-CICATA2018/blob/master/PruebaInstalacion/imagen2.jpg)
+![path](https://github.com/SandraFB/instalaciones/blob/master/imagen2.jpg)
 
 
 Anota la dirección en la que clonaste el directorio de "instalaciones" (observa que está indicado con recuadros anaranjados en la imagen anterior).
 
-![path2](https://github.com/SandraFB/CursoPDI-CICATA2018/blob/master/PruebaInstalacion/imagen4.jpg)
+![path2](https://github.com/SandraFB/instalaciones/blob/master/imagen4.jpg)
 
 
 Abre el directorio en donde clonaste el repositorio con el comando "cd", como se muestra en la siguiente imagen.
 
 
-![cd](https://github.com/SandraFB/CursoPDI-CICATA2018/blob/master/PruebaInstalacion/imagen14.jpg)
+![cd](https://github.com/SandraFB/instalaciones/blob/master/imagen14.jpg)
 
 
 
@@ -43,17 +43,17 @@ conda install -c https://conda.anaconda.org/conda-forge opencv
 jupyter notebook
 
 
-![Jupyter](https://github.com/SandraFB/CursoPDI-CICATA2018/blob/master/PruebaInstalacion/imagen15.jpg)
+![Jupyter](https://github.com/SandraFB/instalaciones/blob/master/imagen15.jpg)
 
 
 
 2. Ahora, desde Jupyter Notebook, crearemos un nuevo documento:
 
 
-![Nuevo](https://github.com/SandraFB/CursoPDI-CICATA2018/blob/master/PruebaInstalacion/imagen3.jpg)
+![Nuevo](https://github.com/SandraFB/instalaciones/blob/master/imagen3.jpg)
 
 
-![Nuevo Notebook](https://github.com/SandraFB/CursoPDI-CICATA2018/blob/master/PruebaInstalacion/imagen6.jpg)
+![Nuevo Notebook](https://github.com/SandraFB/instalaciones/blob/master/imagen6.jpg)
 
 
 3. Importamos librerías escribiendo el siguiente código en el Notebook creado y ejecutamos:
@@ -79,10 +79,10 @@ cv2.__version__
 Nota: Esta línea de código imprime la versión de OpenCV instalada. Si no te marca error, has instalado correctamente OpenCV.
 
 
-![Notebook](https://github.com/SandraFB/CursoPDI-CICATA2018/blob/master/PruebaInstalacion/imagen7.jpg)
+![Notebook](https://github.com/SandraFB/instalaciones/blob/master/imagen7.jpg)
 
 
-![Código](https://github.com/SandraFB/CursoPDI-CICATA2018/blob/master/PruebaInstalacion/imagen8.jpg)
+![Código](https://github.com/SandraFB/instalaciones/blob/master/imagen8.jpg)
 
 
 4. Prácticas en Python
@@ -92,13 +92,13 @@ A forma de taller introductorio para Python, puedes ejecutar las prácticas 1, 2
 Primero selecciona la práctica a realizar y abre el enlace.
 
 
-![Selección](https://github.com/SandraFB/CursoPDI-CICATA2018/blob/master/PruebaInstalacion/imagen9.jpg)
+![Selección](https://github.com/SandraFB/instalaciones/blob/master/imagen9.jpg)
 
 
 Después, ejecuta el código línea por línea y observa el resultado.
 
 
-![Ejecución](https://github.com/SandraFB/CursoPDI-CICATA2018/blob/master/PruebaInstalacion/imagen10.jpg)
+![Ejecución](https://github.com/SandraFB/instalaciones/blob/master/imagen10.jpg)
 
 
 
