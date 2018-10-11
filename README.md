@@ -1,6 +1,33 @@
 # Verificación de instalación
 
-## Probablemente te preguntes ¿Cómo puedes comprobar que tu instalación es correcta? 
+### Probablemente te preguntes ¿Cómo puedes comprobar que tu instalación es correcta? 
+
+
+## Clonación de este repositorio
+
+Desde tu ventana de comandos de Anaconda, ejecuta la siguiente línea:
+
+git clone https://github.com/SandraFB/instalaciones.git
+
+![clone](https://github.com/SandraFB/CursoPDI-CICATA2018/blob/master/PruebaInstalacion/imagen1.jpg)
+
+
+![path](https://github.com/SandraFB/CursoPDI-CICATA2018/blob/master/PruebaInstalacion/imagen2.jpg)
+
+
+Anota la dirección en la que clonaste el directorio de "instalaciones" (observa que está indicado con recuadros anaranjados en la imagen anterior).
+
+![path2](https://github.com/SandraFB/CursoPDI-CICATA2018/blob/master/PruebaInstalacion/imagen4.jpg)
+
+
+Abre el directorio en donde clonaste el repositorio con el comando "cd", como se muestra en la siguiente imagen.
+
+
+![cd](https://github.com/SandraFB/CursoPDI-CICATA2018/blob/master/PruebaInstalacion/imagen14.jpg)
+
+
+
+## Puesta en práctica
 
 1. Vamos a generar otro entorno virtual para OpenCV2 (el cual ocuparemos para la práctica de calibración durante el curso). 
 
@@ -16,7 +43,7 @@ conda install -c https://conda.anaconda.org/conda-forge opencv
 jupyter notebook
 
 
-![Jupyter](https://github.com/SandraFB/CursoPDI-CICATA2018/blob/master/PruebaInstalacion/imagen5.jpg)
+![Jupyter](https://github.com/SandraFB/CursoPDI-CICATA2018/blob/master/PruebaInstalacion/imagen15.jpg)
 
 
 
