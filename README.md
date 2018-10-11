@@ -1,14 +1,23 @@
 # Instalación (Pasos del primer correo):
 
 python -V
+
 conda create -n py34 python=3.4 anaconda
+
 conda activate py34
+
 conda install -c anaconda git
+
 conda install -c anaconda jupyter
+
 conda install -c anaconda numpy
+
 conda install -c anaconda matplotlib
+
 conda install anaconda-client
+
 conda install --channel https://conda.anaconda.org/menpo opencv3
+
 conda update --all
 
 
@@ -30,6 +39,7 @@ git clone https://github.com/SandraFB/instalaciones.git
 
 
 Si te apareció el error que te hace falta "git", escribe:
+
 conda install -c anaconda git
 
 
