@@ -1,6 +1,20 @@
+# Instalación (Pasos del primer correo):
+
+python -V
+conda create -n py34 python=3.4 anaconda
+conda activate py34
+conda install -c anaconda git
+conda install -c anaconda jupyter
+conda install -c anaconda numpy
+conda install -c anaconda matplotlib
+conda install anaconda-client
+conda install --channel https://conda.anaconda.org/menpo opencv3
+conda update --all
+
+
 # Verificación de instalación
 
-### Probablemente te preguntes ¿Cómo puedes comprobar que tu instalación es correcta? 
+Probablemente te preguntes ¿Cómo puedes comprobar que tu instalación es correcta? 
 
 
 ## Clonación de este repositorio
@@ -13,6 +27,10 @@ git clone https://github.com/SandraFB/instalaciones.git
 
 
 ![path](https://github.com/SandraFB/instalaciones/blob/master/imagen2.jpg)
+
+
+Si te apareció el error que te hace falta "git", escribe:
+conda install -c anaconda git
 
 
 Anota la dirección en la que clonaste el directorio de "instalaciones" (observa que está indicado con recuadros anaranjados en la imagen anterior).
